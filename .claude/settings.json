@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(date:*)",
+      "Bash(uname:*)",
+      "Bash(mkdir -p voortgang/*)",
+      "Read(./**)",
+      "Edit(./voortgang/**)",
+      "Edit(./materiaal/**)",
+      "Write(./voortgang/**)",
+      "Write(./materiaal/**)",
+      "WebFetch(domain:portal.coutinho.nl)",
+      "WebSearch"
+    ]
+  }
+}

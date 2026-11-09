@@ -1,0 +1,13 @@
+# Учебники и всё, что из них извлечено, — авторское право издательств. Не публикуем.
+materiaal/boeken/*/boek/
+materiaal/boeken/*/woordenlijsten/
+materiaal/boeken/*/oefeningen/
+*.pdf
+
+# Личные настройки Claude Code
+.claude/settings.local.json
+.claude/.cc-writes/
+
+# Системное
+.DS_Store
+Thumbs.db
